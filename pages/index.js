@@ -35,7 +35,7 @@ export default function Home() {
       {/* CONTATO */}
       <section style={{ padding: 60 }}>
         <h2>Contato</h2>
-        <p>WhatsApp: (61) 99999-9999</p>
+        <p>WhatsApp: (61) 99922-2795</p>
       </section>
 
     </div>
