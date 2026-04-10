@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h1>Site funcionando</h1>
+  return (
+    <div style={{ padding: 40, fontFamily: 'sans-serif' }}>
+      <h1>E. Ramos Advocacia</h1>
+      <p>Site funcionando.</p>
+    </div>
+  )
 }
