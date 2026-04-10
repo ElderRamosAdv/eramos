@@ -9,7 +9,8 @@ export default function Home() {
         padding: '100px 20px',
         textAlign: 'center'
       }}>
-        <h1 style={{ fontSize: 40 }}>E. Ramos Advocacia</h1>
+        <img src="/logo.png" alt="Logo" style={{ width: 150, marginBottom: 20 }} />
+        <h1>E. Ramos Advocacia</h1>
         <p>Excelência jurídica nas áreas Cível, Contratual, Bancária e Criminal</p>
       </section>
 
